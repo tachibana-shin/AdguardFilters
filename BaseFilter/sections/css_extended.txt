@@ -2529,3 +2529,5 @@ thedailybeast.com#?#.HomePage__two-columns-wrapper .Card[-ext-has='.AdSlot']
 wolframclient.net#?#.post-content > div[-ext-has='ins.adsbygoogle']
 !
 economictimes.indiatimes.com#?#.list[-ext-has='img[alt^="Advert"]']
+! https://github.com/AdguardTeam/AdguardFilters/issues/133556
+oshiete.goo.ne.jp###connection_area > div.clearfix:nth-child(2)
